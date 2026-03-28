@@ -16,6 +16,8 @@ Grouping and aggregation allowed me to see patterns at scale—identifying top-p
 - Creating pivot tables for cross-dimensional analysis
 - Performing multi-level grouping to answer complex business questions
 
+![Week 8 Intro](https://github.com/R887645/TDI-Python-Learning-Week-8-Project/blob/main/Open%20File.png?raw=true)
+
 ---
 
 ## What I Implemented
@@ -29,6 +31,9 @@ Grouped data by `supplier_name` to calculate:
 
 Sorted results by total cost (descending).
 
+![Week 8 Intro](https://github.com/R887645/TDI-Python-Learning-Week-8-Project/blob/main/Task%201A.png?raw=true)
+
+
 ### 2. Multi-Column Grouping
 Grouped by `supplier_name` and `product_category` simultaneously to:
 
@@ -36,6 +41,10 @@ Grouped by `supplier_name` and `product_category` simultaneously to:
 - Calculate average cost
 - Summarize total quantity
 - Identify the most profitable supplier-category combinations
+
+![Week 8 Intro](https://github.com/R887645/TDI-Python-Learning-Week-8-Project/blob/main/Task%202A.png?raw=true)
+
+![Week 8 Intro](https://github.com/R887645/TDI-Python-Learning-Week-8-Project/blob/main/Task%202B.png?raw=true)
 
 ### 3. Multiple Metrics with Named Aggregations
 Used `.agg()` with named aggregations to calculate:
@@ -46,6 +55,9 @@ Used `.agg()` with named aggregations to calculate:
 - `min_cost` and `max_cost`
 
 Displayed the top 3 suppliers by volume.
+
+![Week 8 Intro](https://github.com/R887645/TDI-Python-Learning-Week-8-Project/blob/main/Task%203A.png?raw=true)
+![Week 8 Intro](https://github.com/R887645/TDI-Python-Learning-Week-8-Project/blob/main/Task%203B.png?raw=true)
 
 ### 4. Pivot Tables
 Created pivot tables to reveal cross-dimensional insights:
@@ -82,4 +94,4 @@ Overall, Week 8 helped me move from data transformation into actionable analysis
 
 ## View the Full Project
 
-🔗 [View my Week 8 full project on GitHub](https://github.com/R887645/TDI-Python-Learning-Week-8-Project)
+🔗 [View my Week 8 full project on GitHub](https://github.com/R887645/TDI-Python-Learning-Week-8-Project/blob/main/Week8_PersonalDataOrganizer%20(1).ipynb)
